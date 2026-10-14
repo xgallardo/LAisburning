@@ -1,0 +1,17 @@
+LOS ANGELES IS BURNING
+A game by Chalo Gallardo - behance.net/chalogallardo
+
+COMO ABRIRLO
+Doble clic en "index.html" (se abre en el navegador: Chrome, Safari, Firefox o Edge).
+La carpeta MUSICA debe quedar al lado del archivo, con el mismo nombre, para que suene la musica.
+
+CONTROLES
+Saltar ............ Espacio / Flecha arriba / W / clic o toque en la pantalla
+                    (mantener para saltar mas alto)
+Pausa ............. P
+Silenciar ......... M
+Reiniciar ......... R
+Pantalla completa . F o el boton de la esquina inferior derecha
+
+El personaje corre solo. Salta las llamas, los autos y los barrancos,
+cae encima de los enemigos y llega al predicador de cada barrio.
